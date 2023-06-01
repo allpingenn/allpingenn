@@ -1,5 +1,8 @@
+![logo](allpingennbanner.png)
 <h1 align="center">Hi 👋, I'm Alptug Namigur</h1>
 <h3 align="center">A passionate J. Full Stack Developer from Turkey</h3>
+
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allpingenn&label=Profile%20views&color=0e75b6&style=flat" alt="allpingenn" /> </p>
 
