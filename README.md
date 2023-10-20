@@ -6,11 +6,8 @@
 
 - 🔭 I’m currently working on [Hapnot](https://apps.apple.com/tr/app/hap-not-kpss/id1595597540?l=tr)
 
-- 🤝 I’m currently working on [Makina Yanımda](https://apps.apple.com/tr/app/makina-yanımda/id1500067296?l=tr)
-
 - 📫 How to reach me **alptugnamigur@gmail.com**
 
-- ⚡ Fun fact **I am funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
