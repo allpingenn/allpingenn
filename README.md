@@ -1,6 +1,5 @@
 ![logo](allpingennbanner.png)
 <h1 align="center">Hi 👋, I'm Alptug</h1>
-<h3 align="center">Full Stack Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allpingenn&label=Profile%20views&color=0e75b6&style=flat" alt="allpingenn" /> </p>
 
