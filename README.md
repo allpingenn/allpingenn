@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allpingenn&label=Profile%20views&color=0e75b6&style=flat" alt="allpingenn" /> </p>
 
-- 🔭 I’m currently working on [Hapnot](https://apps.apple.com/tr/app/hap-not-kpss/id1595597540?l=tr)
-
 - 📫 How to reach me **alptugnamigur@gmail.com**
 
 
